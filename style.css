@@ -142,6 +142,7 @@ main {
 .larger-checkbox {
   width: 15px;
   height: 15px;
+  accent-color:#e64545;
 }
 
 .recovery > p {
